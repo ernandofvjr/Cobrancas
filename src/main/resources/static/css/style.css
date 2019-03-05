@@ -1,0 +1,21 @@
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.panel-default {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.alert { 
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.er-link-panel{
+	float: right;
+	padding: 0px;
+}
+.er-titulo-panel{
+	float: left;
+	padding-top: 2px;
+}
